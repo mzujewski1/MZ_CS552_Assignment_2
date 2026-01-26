@@ -1,6 +1,6 @@
 # Assignment 2 - Generative vs. Discriminative Models
 
-**Course:** DS552 - Generative AI  
+**Course:** CS552 - Generative AI  
 **Instructor:** Dr. Narahara Chari Dingari  
 **Student:** Matthew Zujewski
 
